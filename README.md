@@ -5,6 +5,7 @@
 This project presents a compact tracked robot designed to analyze its surroundings and detect nearby obstacles. One of its key features is its modern control method: instead of using a traditional radio remote, the robot is operated through a web interface accessible directly from a mobile phone.
 
 The system also includes a prototype **Targeting System**, focused on **active safety**. Its main role is to block the firing action whenever an object is detected at an unsafe distance. Although the implementation involved several hardware limitations and engineering challenges, the final result successfully met the initial project goals.
+![WhatsApp Image 2026-03-31 at 18 14 35](https://github.com/user-attachments/assets/9f47d6c6-7700-4e51-b76b-13231dcbf5d7)
 
 ## Project Objectives
 
@@ -180,6 +181,8 @@ Overall, this project marks the beginning of my journey into robotics and embedd
 └── robot_tank_targeting_system/
     └── robot_tank_targeting_system.ino
 ```
+![WhatsApp Image 2026-03-31 at 18 14 35](https://github.com/user-attachments/assets/782d4ad5-113b-4b47-8a14-1e59bf6beb91)
+![WhatsApp Image 2026-03-31 at 18 14 34 (1)](https://github.com/user-attachments/assets/43b2d4b6-e867-4fe5-b2f6-3816c0e8ffbe)
 
 ## Bibliography
 
